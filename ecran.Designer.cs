@@ -34,12 +34,14 @@
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.printDialog1 = new System.Windows.Forms.PrintDialog();
+            this.button4 = new System.Windows.Forms.Button();
+            this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.SuspendLayout();
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(177, 34);
+            this.button1.Location = new System.Drawing.Point(177, 12);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(168, 63);
             this.button1.TabIndex = 0;
@@ -50,7 +52,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(177, 162);
+            this.button2.Location = new System.Drawing.Point(177, 133);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(168, 63);
             this.button2.TabIndex = 1;
@@ -61,7 +63,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(177, 290);
+            this.button3.Location = new System.Drawing.Point(177, 250);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(168, 63);
             this.button3.TabIndex = 2;
@@ -77,11 +79,23 @@
             // 
             this.printDialog1.UseEXDialog = true;
             // 
+            // button4
+            // 
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.Location = new System.Drawing.Point(177, 358);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(168, 63);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "color";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
             // ecran
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(555, 448);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -99,6 +113,8 @@
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
         private System.Windows.Forms.PrintDialog printDialog1;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.ColorDialog colorDialog1;
     }
 }
 
