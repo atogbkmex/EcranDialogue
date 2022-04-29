@@ -36,6 +36,8 @@
             this.printDialog1 = new System.Windows.Forms.PrintDialog();
             this.button4 = new System.Windows.Forms.Button();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
+            this.button5 = new System.Windows.Forms.Button();
+            this.fontDialog1 = new System.Windows.Forms.FontDialog();
             this.SuspendLayout();
             // 
             // button1
@@ -52,7 +54,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(177, 133);
+            this.button2.Location = new System.Drawing.Point(177, 101);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(168, 63);
             this.button2.TabIndex = 1;
@@ -63,7 +65,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(177, 250);
+            this.button3.Location = new System.Drawing.Point(177, 195);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(168, 63);
             this.button3.TabIndex = 2;
@@ -82,7 +84,7 @@
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(177, 358);
+            this.button4.Location = new System.Drawing.Point(177, 286);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(168, 63);
             this.button4.TabIndex = 3;
@@ -90,11 +92,23 @@
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // button5
+            // 
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Location = new System.Drawing.Point(177, 373);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(168, 63);
+            this.button5.TabIndex = 4;
+            this.button5.Text = "font";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
             // ecran
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(555, 448);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -115,6 +129,8 @@
         private System.Windows.Forms.PrintDialog printDialog1;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.ColorDialog colorDialog1;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.FontDialog fontDialog1;
     }
 }
 

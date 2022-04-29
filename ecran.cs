@@ -36,5 +36,10 @@ namespace EcranDialogue
         {
             colorDialog1.ShowDialog();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            fontDialog1.ShowDialog();
+        }
     }
 }
