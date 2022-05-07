@@ -48,3 +48,14 @@ U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.csproj.GenerateResource.cach
 U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.csproj.CoreCompileInputs.cache
 U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.exe
 U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.pdb
+U:\Docs\alternative\EcranDialogue\bin\Debug\EcranDialogue.exe.config
+U:\Docs\alternative\EcranDialogue\bin\Debug\EcranDialogue.exe
+U:\Docs\alternative\EcranDialogue\bin\Debug\EcranDialogue.pdb
+U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.csprojAssemblyReference.cache
+U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.ecran.resources
+U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.Properties.Resources.resources
+U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.csproj.GenerateResource.cache
+U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.csproj.CoreCompileInputs.cache
+U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.exe
+U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.pdb
+U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.Form2.resources

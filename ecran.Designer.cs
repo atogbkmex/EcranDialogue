@@ -41,6 +41,7 @@
             this.fontDialog1 = new System.Windows.Forms.FontDialog();
             this.button6 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -128,11 +129,23 @@
             this.button7.Text = "ok";
             this.button7.UseVisualStyleBackColor = true;
             // 
+            // button8
+            // 
+            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button8.Location = new System.Drawing.Point(330, 188);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(168, 63);
+            this.button8.TabIndex = 7;
+            this.button8.Text = "next screen";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
             // ecran
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(555, 448);
+            this.Controls.Add(this.button8);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
@@ -160,6 +173,7 @@
         private System.Windows.Forms.FontDialog fontDialog1;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Button button8;
     }
 }
 
