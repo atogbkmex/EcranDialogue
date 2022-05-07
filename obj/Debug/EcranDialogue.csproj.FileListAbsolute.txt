@@ -38,3 +38,13 @@ C:\Users\atogb\Desktop\dernier\EcranDialogue\obj\Debug\EcranDialogue.csproj.Gene
 C:\Users\atogb\Desktop\dernier\EcranDialogue\obj\Debug\EcranDialogue.csproj.CoreCompileInputs.cache
 C:\Users\atogb\Desktop\dernier\EcranDialogue\obj\Debug\EcranDialogue.exe
 C:\Users\atogb\Desktop\dernier\EcranDialogue\obj\Debug\EcranDialogue.pdb
+U:\Docs\autre\EcranDialogue\bin\Debug\EcranDialogue.exe.config
+U:\Docs\autre\EcranDialogue\bin\Debug\EcranDialogue.exe
+U:\Docs\autre\EcranDialogue\bin\Debug\EcranDialogue.pdb
+U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.csprojAssemblyReference.cache
+U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.ecran.resources
+U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.Properties.Resources.resources
+U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.csproj.GenerateResource.cache
+U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.csproj.CoreCompileInputs.cache
+U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.exe
+U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.pdb
