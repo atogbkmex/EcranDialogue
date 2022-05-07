@@ -59,3 +59,4 @@ U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.csproj.CoreCompileInpu
 U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.exe
 U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.pdb
 U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.Form2.resources
+U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.Form2.resources
