@@ -60,3 +60,13 @@ U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.exe
 U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.pdb
 U:\Docs\alternative\EcranDialogue\obj\Debug\EcranDialogue.Form2.resources
 U:\Docs\autre\EcranDialogue\obj\Debug\EcranDialogue.Form2.resources
+C:\Users\kmath\Source\Repos\EcranDialogue\bin\Debug\EcranDialogue.exe.config
+C:\Users\kmath\Source\Repos\EcranDialogue\bin\Debug\EcranDialogue.exe
+C:\Users\kmath\Source\Repos\EcranDialogue\bin\Debug\EcranDialogue.pdb
+C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.ecran.resources
+C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.Form2.resources
+C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.Properties.Resources.resources
+C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.csproj.GenerateResource.cache
+C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.csproj.CoreCompileInputs.cache
+C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.exe
+C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.pdb

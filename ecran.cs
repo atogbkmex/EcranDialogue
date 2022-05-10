@@ -53,5 +53,10 @@ namespace EcranDialogue
             form2.Show();
             this.Hide();
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
