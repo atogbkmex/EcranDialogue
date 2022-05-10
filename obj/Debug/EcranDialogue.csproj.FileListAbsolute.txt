@@ -70,3 +70,4 @@ C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.csproj.Generat
 C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.csproj.CoreCompileInputs.cache
 C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.exe
 C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.pdb
+C:\Users\kmath\Source\Repos\EcranDialogue\obj\Debug\EcranDialogue.csprojAssemblyReference.cache
